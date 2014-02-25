@@ -2,6 +2,8 @@
 
 __A very simple, light weight, yet flexible state machine framework in C#__
 
+__[Download NuGet package](https://www.nuget.org/packages/SSM/)__
+
 _Please see SSM.Tests folder for an example as well as test cases_
 
 Concept
