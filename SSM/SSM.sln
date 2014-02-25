@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSM", "SSM.csproj", "{EDF25DBA-2900-4FF8-BA20-41DA1B4B5268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSM.Tests", "..\SSM.Tests\SSM.Tests.csproj", "{959C0DBC-03B8-407D-BE6C-757F03846E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF25DBA-2900-4FF8-BA20-41DA1B4B5268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF25DBA-2900-4FF8-BA20-41DA1B4B5268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF25DBA-2900-4FF8-BA20-41DA1B4B5268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF25DBA-2900-4FF8-BA20-41DA1B4B5268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959C0DBC-03B8-407D-BE6C-757F03846E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959C0DBC-03B8-407D-BE6C-757F03846E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959C0DBC-03B8-407D-BE6C-757F03846E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959C0DBC-03B8-407D-BE6C-757F03846E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
