@@ -1,4 +1,4 @@
-##SSM (Simple State Machine)
+##SSM (Simple State Machine) v1.0
 
 __A very simple, light weight, yet flexible state machine framework in C#__
 
